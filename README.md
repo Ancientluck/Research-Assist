@@ -7,7 +7,7 @@ Research Assist is envisioned as a Python-based project leveraging the power of 
 ## Languages and libraries
 * Python
 * LangChain
-* Streamlit
+
 ## Key Concepts
 * **LangChain**: LangChain is a framework designed to simplify the development of applications powered by large language models (LLMs). It provides a modular and flexible architecture that allows developers to connect various components, such as prompt templates, language models, vector stores, and output parsers, to create sophisticated AI workflows. LangChain aims to abstract away much of the complexity involved in interacting with LLMs, enabling the creation of applications for tasks like question answering, text generation, summarization, and more.   
 * **Prompt**: Prompt is the input text provided to the model that guides its response. It serves as the initial context and instructions for the model to generate relevant and coherent output. Prompts can range from simple questions or statements to more complex instructions that specify the desired format, style, and content of the model's generation. Crafting effective prompts, often referred to as prompt engineering, is crucial for eliciting the desired behavior and high-quality results from language models.
